@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gold-filmes/static/css/main.3278f17b.css",
+    "main.js": "/Gold-filmes/static/js/main.c9e48354.js",
+    "index.html": "/Gold-filmes/index.html",
+    "main.3278f17b.css.map": "/Gold-filmes/static/css/main.3278f17b.css.map",
+    "main.c9e48354.js.map": "/Gold-filmes/static/js/main.c9e48354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3278f17b.css",
+    "static/js/main.c9e48354.js"
+  ]
+}
